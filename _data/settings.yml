@@ -15,4 +15,4 @@ social:
 - {icon: 'fas fa-graduation-cap', link: 'https://scholar.google.com/citations?user=aGapKucAAAAJ&hl=en'}
 
 contacts:
-- {name: 'Yasin Simsek', title: 'PhD Candidate', department: 'Department of Economics', institution: 'Duke University', institution_address: '419 Chapel Drive, Durham, NC, US', phone: '919-660-1800', email: 'yasin.simsek@duke.edu', office: 'Social Sciences Building 325', image: 'assets/img/duke.jpg'}
+- {name: 'Yasin Simsek', title: 'PhD Candidate', department: 'Department of Economics', institution: 'Duke University', institution_address: '419 Chapel Drive, Durham, NC, US', phone: '919-660-1800', email: 'yasin.simsek@duke.edu', office: 'Social Sciences Building 325', image: 'assets/img/duke.jpeg'}
