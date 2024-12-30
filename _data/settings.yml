@@ -15,4 +15,4 @@ social:
 - {icon: 'fas fa-graduation-cap', link: 'https://scholar.google.com/citations?user=aGapKucAAAAJ&hl=en'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Yasin Simsek', title: 'PhD Candidate', department: 'Department of Economics', institution: 'Duke University', institution_address: '419 Chapel Drive, Durham, NC, USA', phone: '919-660-1800', email: 'yasin.simsek@duke.edu', office: 'Social Sciences Building 325', image: 'assets/img/duke.jpg'}
