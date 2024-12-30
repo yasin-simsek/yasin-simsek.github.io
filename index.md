@@ -3,6 +3,9 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+### Welcome!
+I am a PhD student at Department of Economics, Duke University. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+My research interests span Asset Pricing, Econometrics, and Machine Learning topics. Currently, my work mainly focuses on understanding financial markets with high-frequency econometric techniques. Also, as a secondary research agena, I leverage machine learning tools to address questions in asset pricing, uncovering complex patterns and relationships within financial data.
+
+Feel free to reach out to me regarding my research, code etc. My email is [yasin.simsek@duke.edu](mailto:yasin.simsek@duke.edu)
