@@ -10,9 +10,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/yasin-simsek'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yasin-simsek-47b8462b3'}
-- {icon: 'fa-google-scholar', link: 'https://scholar.google.com/citations?user=aGapKucAAAAJ&hl=en'}
+- {icon: 'fab fa-github', link: 'https://github.com/yasin-simsek'}
+- {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/yasin-simsek-47b8462b3'}
+- {icon: 'fas fa-graduation-cap', link: 'https://scholar.google.com/citations?user=aGapKucAAAAJ&hl=en'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
