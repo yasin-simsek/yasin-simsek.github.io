@@ -1,6 +1,6 @@
 ---
-layout: teaching
-title: "Teaching"
+layout: page
+title: "Teaching Experience"
 ---
 Below, I outline some courses for which I have served as a teaching assistant  at Duke.
 
