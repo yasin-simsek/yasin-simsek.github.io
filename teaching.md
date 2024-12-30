@@ -12,6 +12,6 @@ Below, I outline some courses for which I have served as a teaching assistant an
  * Instructor: Anna Bykhovskaya;
  * Level: MA class;
 
- #### Math Camp for Economics PhD (Summer 2023, Summer 2024):
+#### Math Camp for Economics PhD (Summer 2023, Summer 2024):
  * Instructor: Yasin Simsek;
  * Level: PhD class;
