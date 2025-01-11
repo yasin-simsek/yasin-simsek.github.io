@@ -16,6 +16,6 @@ title: "Research"
 **Abstract:** *This paper extends the canonical model of epidemiology, the SIRD model, to allow for time-varying parameters for real-time measurement and prediction of the trajectory of the Covid-19 pandemic. Time variation in model parameters is captured using the score-driven modeling structure designed for the typical daily count data related to the pandemic. The resulting specification permits a flexible yet parsimonious model with a low computational cost. The model is extended to allow for unreported cases using a mixed-frequency setting. Results suggest that these cases’ effects on the parameter estimates might be sizeable. Full sample results show that the flexible framework accurately captures the successive waves of the pandemic. A real-time exercise indicates that the proposed structure delivers timely and precise information on the pandemic’s current stance*
 
 #### Works in Progress
-* **Estimating Covariances using Candlesticks: Implications for Portfolio Selection**
+* **Beyond Returns: A Candlestick-based Approach to Covariance Estimation** *(Draft coming soon!)*
 
     
