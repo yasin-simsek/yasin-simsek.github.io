@@ -5,14 +5,14 @@ title: "Research"
 
 #### Working Papers
 * [**Intraday Variation in Systematic Risks and Information Flows**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006587) - (joint with [**Andrew Patton**](https://public.econ.duke.edu/~ap172/)) <br>
-<button onclick="toggleAbstract('abstract1')">Abstract;</span></button>
+<button onclick="toggleAbstract('abstract1')">Abstract <span>&#x2795;</span></button>
 <div id="abstract1" style="display:none;">
 **Abstract:** *This paper analyzes variation in the factor structure of asset returns within a trade day by combining non-parametric kernel methods with principal component analysis. We estimate the model on a collection of over 400 high frequency US equity returns over the period 1996-2020 and show that the proposed model has superior explanatory power relative to a collection of well-known observable factor models and standard PCA. We present a stylized model of asset prices and information flows and show that the factor structure of asset returns varies with the arrival of news. Using data on individual firm earnings announcements, FOMC announcements, and other macroeconomic announcements, we provide evidence consistent with our stylized model, that the superior performance of the proposed model is due to time variation in the factor structure of asset returns around times of information flows.*
 </div>
 
 * [**Generalized Autoregressive Score Trees and Forests**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4459756) - (joint with [**Andrew Patton**](https://public.econ.duke.edu/~ap172/)) <br>
  *R&R from Journal of Business and Economics Statistics* <br>
-<button onclick="toggleAbstract('abstract2')">Abstract <span>&#x1F4C4;</span></button>
+<button onclick="toggleAbstract('abstract2')">Abstract <span>&#x2795;</span></button>
 <div id="abstract2" style="display:none;">
 **Abstract:** *We propose methods to improve the forecasts from generalized autoregressive score (GAS) models (Creal et. al, 2013; Harvey, 2013) by localizing their parameters using decision trees and random forests. These methods avoid the curse of dimensionality faced by kernel-based approaches, and allow one to draw on information from multiple state variables simultaneously. We apply the new models to four distinct empirical analyses, and in all applications the proposed new methods significantly outperform the baseline GAS model. In our applications to stock return volatility and density prediction, the optimal GAS tree model reveals a leverage effect and a variance risk premium effect. Our study of stock-bond dependence finds evidence of a flight-to-quality effect in the optimal GAS forest forecasts, while our analysis of high-frequency trade durations uncovers a volume-volatility effect.*
 </div>
