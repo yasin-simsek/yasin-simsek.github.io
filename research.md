@@ -76,7 +76,7 @@ title: "Research"
 
 
 #### Works in Progress
-* **Beyond Returns: A Candlestick-based Approach to Covariance Estimation** *(Draft is coming soon!)* 
+* **Beyond Returns: A Candlestick-Based Approach to Covariance Estimation** *(Draft is coming soon!)* 
 
 
 <script>
