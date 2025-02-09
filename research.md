@@ -5,6 +5,7 @@ title: "Research"
 
 <style>
 .abstract-toggle {
+    text-decoration: none; /* Removes underline */
     cursor: pointer;
     color: #012169;
 }
