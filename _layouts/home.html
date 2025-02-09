@@ -2,6 +2,31 @@
 layout: default
 ---
 
+<div class="row g-4 mb-4">
+  <!-- Left Column: Photo and Contact Info -->
+  <div class="col-md-4">
+    <img src="{{ site.github.url }}/assets/img/duke_photo.jpg" alt="Profile Photo" class="img-fluid mb-3">
+    <div>
+      <h5>Contact</h5>
+      <p>
+        Yasin Simsek<br>
+        Duke University, Economics Department<br>
+        Email: your.email@duke.edu<br>
+        Website: <a href="https://yourwebsite.com">yourwebsite.com</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Right Column: Page Content -->
+  <div class="col-md-8">
+    {{ content }}
+  </div>
+</div>
+
+<!-- ---
+layout: default
+---
+
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     {{ content }}
@@ -9,7 +34,7 @@ layout: default
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/duke_photo.jpg" alt="Home" width="100%" height="100%">
   </div>
-</div>
+</div> -->
 
 <!-- {% include publications.html %}
 
