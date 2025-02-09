@@ -10,16 +10,13 @@ title: "Research"
 }
 
 .abstract-content {
-    visibility: hidden;
-    height: 0;
+    display: none; /* This removes the empty space */
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
-    display: inline-block;
 }
 
 .abstract-content.show {
-    visibility: visible;
-    height: auto;
+    display: inline-block; /* Ensures it appears inline with other elements */
     opacity: 1;
 }
 </style>
