@@ -81,13 +81,14 @@ title: "Research"
 
 <script>
 function toggleAbstract(element) {
-    // Find all abstract content sections in the current section
-    var abstractSections = element.closest('span').querySelectorAll('.abstract-content');
-    
-    // Loop through all and toggle visibility for each abstract
-    abstractSections.forEach(function(abstract) {
+    // Find the next sibling that contains the abstract content
+    var abstract = element.closest('span').nextElementSibling;
+    while (abstract && !abstract.classList.contains('abstract-content')) {
+        abstract = abstract.nextElementSibling;
+    }
+    if (abstract) {
         abstract.classList.toggle("show");
-    });
+    }
 }
 </script>
 
