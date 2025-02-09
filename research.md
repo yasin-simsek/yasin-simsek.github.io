@@ -25,16 +25,9 @@ title: "Research"
 
 <script>
 function toggleAbstract(element) {
-    var abstractContent = element.nextElementSibling;
-    if (abstractContent.style.display === "none") {
-        abstractContent.style.display = "inline";
-    } else {
-        abstractContent.style.display = "none";
-    }
+    var abstract = element.nextElementSibling;
+    abstract.classList.toggle("show");
 }
-document.querySelectorAll('.abstract-toggle').forEach(function(element) {
-    element.style.color = "#012169";
-});
 </script>
 
     
