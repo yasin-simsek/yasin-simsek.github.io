@@ -49,7 +49,8 @@ title: "Research"
 
 
 #### Working Papers
-* **Intraday Variation in Systematic Risks and Information Flows** - (joint with [**Andrew Patton**](https://public.econ.duke.edu/~ap172/)) <br>
+* **Intraday Variation in Systematic Risks and Information Flows** 
+<br> with [**Andrew Patton**](https://public.econ.duke.edu/~ap172/) <br>
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> <span class="middot">&middot;</span> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006587" class="no-underline">Draft</a> <span class="middot">&middot;</span> <span style="color:#012169;">Online Appendix</span> <span class="abstract-content"> <br> *This paper analyzes variation in the factor structure of asset returns within a trade day by combining non-parametric kernel methods with principal component analysis. We estimate the model on a collection of over 400 high frequency US equity returns over the period 1996-2020 and show that the proposed model has superior explanatory power relative to a collection of well-known observable factor models and standard PCA. We present a stylized model of asset prices and information flows and show that the factor structure of asset returns varies with the arrival of news. Using data on individual firm earnings announcements, FOMC announcements, and other macroeconomic announcements, we provide evidence consistent with our stylized model, that the superior performance of the proposed model is due to time variation in the factor structure of asset returns around times of information flows.*</span>
 
 * **Generalized Autoregressive Score Trees and Forests** - (joint with [**Andrew Patton**](https://public.econ.duke.edu/~ap172/)) <br>
