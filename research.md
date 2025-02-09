@@ -44,14 +44,14 @@ title: "Research"
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> &middot; <span style="color:#012169;">Draft</span> &middot; <span style="color:#012169;">Slides</span> <span class="abstract-content"> <br> *This paper analyzes variation in the factor structure of asset returns within a trade day by combining non-parametric kernel methods with principal component analysis. We estimate the model on a collection of over 400 high frequency US equity returns over the period 1996-2020 and show that the proposed model has superior explanatory power relative to a collection of well-known observable factor models and standard PCA. We present a stylized model of asset prices and information flows and show that the factor structure of asset returns varies with the arrival of news. Using data on individual firm earnings announcements, FOMC announcements, and other macroeconomic announcements, we provide evidence consistent with our stylized model, that the superior performance of the proposed model is due to time variation in the factor structure of asset returns around times of information flows.*</span> 
 
 
-<!-- <script>
+<script>
 function toggleAbstract(element) {
     var abstract = element.nextElementSibling.nextElementSibling.nextElementSibling; // Move to the abstract-content span
     abstract.classList.toggle("show");
 }
-</script> -->
+</script>
 
-<script>
+<!-- <script>
 function toggleAbstract(element) {
     var abstractContent = element.nextElementSibling;
     if (abstractContent.style.display === "none") {
@@ -63,6 +63,6 @@ function toggleAbstract(element) {
 // document.querySelectorAll('.abstract-toggle').forEach(function(element) {
 //     element.style.color = "#012169";
 // });
-</script>
+</script> -->
 
     
