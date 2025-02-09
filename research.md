@@ -39,6 +39,7 @@ title: "Research"
 .middot {
     font-size: 2.5em; /* Increase the size */
     margin: 0 15px;    /* Add space around the dot */
+    vertical-align: middle;
 }
 
 </style>
