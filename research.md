@@ -29,6 +29,11 @@ title: "Research"
 .no-underline:hover {
     text-decoration: underline; /* Optional: Add underline on hover */
 }
+
+.abstract-toggle:hover {
+    text-decoration: underline; /* Optional: Add underline on hover */
+}
+
 </style>
 
 
