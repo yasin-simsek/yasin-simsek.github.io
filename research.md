@@ -69,7 +69,7 @@ title: "Research"
 
 <script>
 function toggleAbstract(element) {
-    var abstract = element.nextElementSibling.nextElementSibling.nextElementSibling; // Move to the abstract-content span
+    var abstract = element.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling; // Move to the abstract-content span
     abstract.classList.toggle("show");
 }
 </script>
