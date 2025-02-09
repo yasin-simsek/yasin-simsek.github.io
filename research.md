@@ -6,7 +6,6 @@ title: "Research"
 <style>
 .abstract-toggle {
     cursor: pointer;
-    text-decoration: underline;
     color: #012169;
 }
 
@@ -47,7 +46,7 @@ title: "Research"
 
 <script>
 function toggleAbstract(element) {
-    var abstract = element.nextElementSibling;
+    var abstract = element.nextElementSibling.nextElementSibling; // Move to the abstract-content span
     abstract.classList.toggle("show");
 }
 </script>
