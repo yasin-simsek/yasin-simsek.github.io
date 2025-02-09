@@ -46,9 +46,23 @@ title: "Research"
 
 <script>
 function toggleAbstract(element) {
-    var abstract = element.nextElementSibling.nextElementSibling; // Move to the abstract-content span
+    var abstract = element.nextElementSibling.nextElementSibling.nextElementSibling; // Move to the abstract-content span
     abstract.classList.toggle("show");
 }
 </script>
+
+<!-- <script>
+function toggleAbstract(element) {
+    var abstractContent = element.nextElementSibling;
+    if (abstractContent.style.display === "none") {
+        abstractContent.style.display = "inline";
+    } else {
+        abstractContent.style.display = "none";
+    }
+}
+document.querySelectorAll('.abstract-toggle').forEach(function(element) {
+    element.style.color = "#012169";
+});
+</script> -->
 
     
