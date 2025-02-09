@@ -37,9 +37,12 @@ title: "Research"
 }
 
 .middot {
-    font-size: 2.5em; /* Increase the size */
-    margin: 0 15px;    /* Add space around the dot */
-    vertical-align: middle;
+    font-size: 1.5em;        /* Increase the size */
+    margin: 0 10px;          /* Space around the dot */
+    line-height: 1;          /* Ensures the line height matches text size */
+    vertical-align: middle;  /* Aligns the dot with the text baseline */
+    position: relative;      /* Ensures fine control over positioning */
+    top: -0.1em;             /* Fine-tune vertical position to center */
 }
 
 </style>
