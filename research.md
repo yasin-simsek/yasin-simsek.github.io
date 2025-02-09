@@ -11,9 +11,13 @@ title: "Research"
 }
 
 .abstract-content {
-    display: none; /* This removes the empty space */
+    display: inline-block; /* Makes the abstract visible by default */
+    opacity: 1;            /* Ensure it is fully visible */
+    transition: none;      /* Removes transition for immediate visibility */
+    /* Make abstract hidden by default */
+    /* display: none; 
     opacity: 0;
-    transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out; */
 }
 
 .abstract-content.show {
