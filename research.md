@@ -21,8 +21,15 @@ title: "Research"
 }
 
 .abstract-content.show {
-    display: inline-block; /* Ensures it appears inline with other elements */
-    opacity: 1;
+    /* Ensures it appears inline with other elements */
+    /* 
+    display: inline-block; 
+    opacity: 1; 
+    */
+    /* Hide abstract */
+    display: none; 
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
 }
 
 .no-underline {
