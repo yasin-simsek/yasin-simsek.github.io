@@ -81,10 +81,18 @@ title: "Research"
 
 <script>
 function toggleAbstract(element) {
-    var abstract = element.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling; // Move to the abstract-content span
+    // Find the abstract content by its class within the same parent
+    var abstract = element.closest('span').querySelector('.abstract-content');
     abstract.classList.toggle("show");
 }
 </script>
+
+<!-- <script>
+function toggleAbstract(element) {
+    var abstract = element.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling; // Move to the abstract-content span
+    abstract.classList.toggle("show");
+}
+</script> -->
 
 <!-- <script>
 function toggleAbstract(element) {
