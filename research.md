@@ -71,7 +71,7 @@ title: "Research"
 
 #### Publications
 * **Bridging the Covid-19 data and the epidemiological model using the time-varying parameter SIRD model**
-<br><span style="font-size: 0.85em;">with <a href="https://sites.google.com/site/cemcakmakli/home" style="font-size: inherit; text-decoration: none; color: black;">Cem Cakmakli</a>, **Journal of Econometrics(2024)**</span> <br> 
+<br><span style="font-size: 0.85em;">with <a href="https://sites.google.com/site/cemcakmakli/home" style="font-size: inherit; text-decoration: none; color: black;">Cem Cakmakli</a>, ***Journal of Econometrics(2024)***</span> <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> <span class="middot">&middot;</span> <a href="https://www.sciencedirect.com/science/article/pii/S0304407624001337" class="no-underline">Journal Link</a> <span class="abstract-content"> *This paper extends the canonical model of epidemiology, the SIRD model, to allow for time-varying parameters for real-time measurement and prediction of the trajectory of the Covid-19 pandemic. Time variation in model parameters is captured using the score-driven modeling structure designed for the typical daily count data related to the pandemic. The resulting specification permits a flexible yet parsimonious model with a low computational cost. The model is extended to allow for unreported cases using a mixed-frequency setting. Results suggest that these cases’ effects on the parameter estimates might be sizeable. Full sample results show that the flexible framework accurately captures the successive waves of the pandemic. A real-time exercise indicates that the proposed structure delivers timely and precise information on the pandemic’s current stance*</span>
 
 
