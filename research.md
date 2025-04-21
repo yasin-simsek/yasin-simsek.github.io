@@ -60,7 +60,7 @@ title: "Research"
 
 
 #### Working Papers
-&#9656; **Intraday Variation in Systematic Risks and Information Flows** 
+- **Intraday Variation in Systematic Risks and Information Flows** 
 <br> 
 <span style="font-size: 0.99em;">with <a href="https://public.econ.duke.edu/~ap172/" style="font-size: inherit; text-decoration: none; color: black;">Andrew Patton</a></span> 
 <br> 
