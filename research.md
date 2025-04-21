@@ -59,7 +59,7 @@ title: "Research"
 </style>
 
 
-#### Working Papers
+#### <span style="color: #012169;">Working Papers</span>
 - **Intraday Variation in Systematic Risks and Information Flows** 
 <br> 
 <span style="font-size: 0.95em;">with <a href="https://public.econ.duke.edu/~ap172/" style="font-size: inherit; text-decoration: underline; color: black;">Andrew Patton</a></span> 
@@ -75,13 +75,13 @@ title: "Research"
 <br> <span style="font-size: 0.95em;">with <a href="https://public.econ.duke.edu/~ap172/" style="font-size: inherit; text-decoration: underline; color: black;">Andrew Patton</a>, ***R&R Journal of Business & Economic Statistics***</span> <br>
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> <span class="middot">&middot;</span> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4459756" class="no-underline">Draft</a> <span class="middot">&middot;</span> <a href="assets/documents/Patton_Simsek_GAS_tree_APPENDIX.pdf" class="no-underline">Online Appendix</a> <span class="abstract-content">  *We propose methods to improve the forecasts from generalized autoregressive score (GAS) models (Creal et. al, 2013; Harvey, 2013) by localizing their parameters using decision trees and random forests. These methods avoid the curse of dimensionality faced by kernel-based approaches, and allow one to draw on information from multiple state variables simultaneously. We apply the new models to four distinct empirical analyses, and in all applications the proposed new methods significantly outperform the baseline GAS model. In our applications to stock return volatility and density prediction, the optimal GAS tree model reveals a leverage effect and a variance risk premium effect. Our study of stock-bond dependence finds evidence of a flight-to-quality effect in the optimal GAS forest forecasts, while our analysis of high-frequency trade durations uncovers a volume-volatility effect.*</span>
 
-#### Publications
+#### <span style="color: #012169;">Publications</span>
 * **Bridging the Covid-19 data and the epidemiological model using the time-varying parameter SIRD model**
 <br><span style="font-size: 0.95em;">with <a href="https://sites.google.com/site/cemcakmakli/home" style="font-size: inherit; text-decoration: underline; color: black;">Cem Cakmakli</a>, ***Journal of Econometrics(2024)***</span> <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> <span class="middot">&middot;</span> <a href="https://www.sciencedirect.com/science/article/pii/S0304407624001337" class="no-underline">Journal Link</a> <span class="abstract-content"> *This paper extends the canonical model of epidemiology, the SIRD model, to allow for time-varying parameters for real-time measurement and prediction of the trajectory of the Covid-19 pandemic. Time variation in model parameters is captured using the score-driven modeling structure designed for the typical daily count data related to the pandemic. The resulting specification permits a flexible yet parsimonious model with a low computational cost. The model is extended to allow for unreported cases using a mixed-frequency setting. Results suggest that these cases’ effects on the parameter estimates might be sizeable. Full sample results show that the flexible framework accurately captures the successive waves of the pandemic. A real-time exercise indicates that the proposed structure delivers timely and precise information on the pandemic’s current stance*</span>
 
 
-#### Works in Progress
+#### <span style="color: #012169;">Works in Progress</span>
 * **Beyond Returns: A Candlestick-Based Approach to Covariance Estimation** *(Draft is coming soon!)* 
 
 
