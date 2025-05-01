@@ -4,10 +4,10 @@ menu:
 # - {name: 'Resume', url: '/resume'}
 - {name: 'Contact', url: '/contact'}
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+# courses:
+# - {name: 'Vector Calculus', url: 'vector-calculus'}
+# - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+# - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 - {icon: 'fab fa-github', link: 'https://github.com/yasin-simsek'}
