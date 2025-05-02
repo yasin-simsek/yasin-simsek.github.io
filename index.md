@@ -12,7 +12,7 @@ My research interests span **Econometrics**, **Asset Pricing**, and **Machine Le
 
 <span style="text-decoration: underline; color: #007BFF;"><strong>Contact</strong></span> -->
 
-<i class="fas fa-file-alt"></i> **CV: [Click here](assets/documents/yasin_simsek_resume.pdf)**
+<!-- <i class="fas fa-file-alt"></i> **CV: [Click here](assets/documents/yasin_simsek_resume.pdf)** -->
 
 <i class="fas fa-envelope"></i> **Email:** [yasin.simsek@duke.edu](mailto:yasin.simsek@duke.edu)
 
