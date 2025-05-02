@@ -10,6 +10,8 @@ My research interests span **Econometrics**, **Asset Pricing**, and **Machine Le
 
 My CV is available [here](assets/documents/yasin_simsek_resume.pdf).
 
-**Contact**
+<span style="text-decoration: underline; color: #007BFF;"><strong>Contact</strong></span>
+
 <i class="fas fa-envelope"></i> **Email:** [yasin.simsek@duke.edu](mailto:yasin.simsek@duke.edu)
-- **Address:** Department of Economics, Duke University, Durham, NC, USA
+
+<i class="fas fa-map-marker-alt"></i> **Address:** Department of Economics, Duke University, Durham, NC, USA
