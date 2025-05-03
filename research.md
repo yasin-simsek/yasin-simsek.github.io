@@ -60,7 +60,7 @@ title: "Research"
 
 
 #### <span style="color: #012169;">Working Papers</span>
-* **Intraday Variation in Systematic Risks and Information Flows**  
+* **Intraday Variation in Systematic Risks and Information Flows**
 <span style="font-size: 0.95em;">with <a href="https://public.econ.duke.edu/~ap172/" style="font-size: inherit; text-decoration: underline; color: black;">Andrew Patton</a></span> 
 <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> 
