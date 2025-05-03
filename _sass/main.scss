@@ -1,6 +1,7 @@
 $backgroundColor: #ffffff; // White background in HEX
 $bodyColor: #000000; // Dark red color in HEX
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; // Font stack
+// $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; // Font stack
+$bodyFont: "Merriweather", Georgia, serif; // Elegant serif font for academic websites
 $linkColor: #012169; // Duke navy color in HEX
 
 body {
