@@ -69,9 +69,7 @@ title: "Research"
 <span class="middot">&middot;</span>
 <a href="https://www.youtube.com/watch?v=xzrGnCQXz_k" class="no-underline">VTSS Workshop Recording</a>
 <span class="abstract-content"> *This paper analyzes variation in the factor structure of asset returns within a trade day by combining non-parametric kernel methods with principal component analysis. We estimate the model on a collection of over 400 high frequency US equity returns over the period 1996-2020 and show that the proposed model has superior explanatory power relative to a collection of well-known observable factor models and standard PCA. We present a stylized model of asset prices and information flows and show that the factor structure of asset returns varies with the arrival of news. Using data on individual firm earnings announcements, FOMC announcements, and other macroeconomic announcements, we provide evidence consistent with our stylized model, that the superior performance of the proposed model is due to time variation in the factor structure of asset returns around times of information flows.*</span>
-
-<br> <!-- Adds an empty line -->
-
+<br>
 **Generalized Autoregressive Score Trees and Forests**
 (with <a href="https://public.econ.duke.edu/~ap172/" class="no-underline">Andrew J. Patton</a>) 
 <br> 
