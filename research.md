@@ -11,24 +11,14 @@ title: "Research"
 }
 
 .abstract-content {
-    display: inline-block; /* Makes the abstract visible by default */
-    opacity: 1;            /* Ensure it is fully visible */
-    transition: none;      /* Removes transition for immediate visibility */
-    /* Make abstract hidden by default */
-    /* display: none; 
+    display: none;           /* Hide abstract by default */
     opacity: 0;
-    transition: opacity 0.3s ease-in-out; */
+    transition: opacity 0.3s ease-in-out;
 }
 
 .abstract-content.show {
-    /* Ensures it appears inline with other elements */
-    /* 
-    display: inline-block; 
-    opacity: 1; 
-    */
-    /* Hide abstract */
-    display: none; 
-    opacity: 0;
+    display: inline-block;   /* Show abstract when .show is added */
+    opacity: 1;
     transition: opacity 0.3s ease-in-out;
 }
 
@@ -84,7 +74,7 @@ title: "Research"
 <br>
 *Journal of Econometrics, 242/1, May 2024.*
 <br> 
-<span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> <span class="middot">&middot;</span> <a href="https://www.sciencedirect.com/science/article/pii/S0304407624001337" class="no-underline">Journal Link</a> <span class="abstract-content"> *This paper extends the canonical model of epidemiology, the SIRD model, to allow for time-varying parameters for real-time measurement and prediction of the trajectory of the Covid-19 pandemic. Time variation in model parameters is captured using the score-driven modeling structure designed for the typical daily count data related to the pandemic. The resulting specification permits a flexible yet parsimonious model with a low computational cost. The model is extended to allow for unreported cases using a mixed-frequency setting. Results suggest that these cases’ effects on the parameter estimates might be sizeable. Full sample results show that the flexible framework accurately captures the successive waves of the pandemic. A real-time exercise indicates that the proposed structure delivers timely and precise information on the pandemic’s current stance*</span>
+<span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> <span class="middot">&middot;</span> <a href="https://www.sciencedirect.com/science/article/pii/S0304407624001337" class="no-underline">Journal Link</a> <span class="abstract-content"> *This paper extends the canonical model of epidemiology, the SIRD model, to allow for time-varying parameters for real-time measurement and prediction of the trajectory of the Covid-19 pandemic. Time variation in model parameters is captured using the score-driven modeling structure designed for the typical daily count data related to the pandemic. The resulting specification permits a flexible yet parsimonious model with a low computational cost. The model is extended to allow for unreported cases using a mixed-frequency setting. Results suggest that these cases’ effects on the parameter estimates might be sizeable. Full sample results show that the flexible framework accurately captures the successive waves of the pandemic. A real-time exercise indicates that the proposed structure delivers timely and precise information on the pandemic’s current stance.*</span>
 
 
 #### <span style="color: #012169;">Works in Progress</span>
