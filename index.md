@@ -13,11 +13,11 @@ My research interests span **Econometrics**, **Asset Pricing**, and **Machine Le
 My CV is available [here](assets/documents/yasin_simsek_resume.pdf).
 
 
-**Contact Information**:
+**Contact Information**: 
 [yasin.simsek@duke.edu](mailto:yasin.simsek@duke.edu)  
 Department of Economics  
-Duke University 
-213 Social Sciences, 419 Chapel Drive
+Duke University  
+213 Social Sciences, 419 Chapel Drive 
 Durham, NC 27708 
 
 
