@@ -5,11 +5,6 @@ menu:
 - {name: 'CV', url: '/cv'}
 #- {name: 'Contact', url: '/contact'}
 
-# courses:
-# - {name: 'Vector Calculus', url: 'vector-calculus'}
-# - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-# - {name: 'Stellar Structures', url: 'stellar-structures'}
-
 social:
 - {icon: 'fab fa-github', link: 'https://github.com/yasin-simsek'}
 - {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/yasin-simsek-47b8462b3'}
