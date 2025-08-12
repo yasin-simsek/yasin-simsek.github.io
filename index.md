@@ -14,7 +14,7 @@ My CV is available [here](assets/documents/yasin_simsek_resume.pdf).
 
 
 **Contact Information**:    
-[yasin.simsek@duke.edu](mailto:yasin.simsek@duke.edu)  
+[yasin.simsek@duke.edu](mailto:yasin.simsek@duke.edu){:target="_blank"}
 Department of Economics  
 Duke University  
 419 Chapel Drive, 213 Social Sciences        
