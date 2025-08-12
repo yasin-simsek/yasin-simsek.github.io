@@ -84,18 +84,6 @@ title: "Research"
 **Beyond Returns: A Candlestick-Based Approach to Covariance Estimation** *(Draft is coming soon!)*  -->
 
 
-<!-- <script>
-function toggleAbstract(element) {
-    // Find the next sibling that contains the abstract content
-    var abstract = element.closest('span').nextElementSibling;
-    while (abstract && !abstract.classList.contains('abstract-content')) {
-        abstract = abstract.nextElementSibling;
-    }
-    if (abstract) {
-        abstract.classList.toggle("show");
-    }
-}
-</script> -->
 
 <script>
 function toggleAbstract(element) {
@@ -109,35 +97,23 @@ function toggleAbstract(element) {
     }
 }
 
-// Add this new function to automatically handle external links
+// Add this new function to automatically handle external links and document links
 document.addEventListener('DOMContentLoaded', function() {
-    const links = document.querySelectorAll('a[href^="http"]');
-    links.forEach(link => {
+    // Handle external links (starting with http)
+    const externalLinks = document.querySelectorAll('a[href^="http"]');
+    externalLinks.forEach(link => {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+    });
+    
+    // Handle document links (starting with assets/)
+    const documentLinks = document.querySelectorAll('a[href^="assets/"]');
+    documentLinks.forEach(link => {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
     });
 });
 </script>
 
-<!-- <script>
-function toggleAbstract(element) {
-    var abstract = element.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling; // Move to the abstract-content span
-    abstract.classList.toggle("show");
-}
-</script> -->
-
-<!-- <script>
-function toggleAbstract(element) {
-    var abstractContent = element.nextElementSibling;
-    if (abstractContent.style.display === "none") {
-        abstractContent.style.display = "inline";
-    } else {
-        abstractContent.style.display = "none";
-    }
-}
-// document.querySelectorAll('.abstract-toggle').forEach(function(element) {
-//     element.style.color = "#012169";
-// });
-</script> -->
 
     
