@@ -1,9 +1,9 @@
 menu:
-- {name: 'HOME', url: '/pages/index'}
-- {name: 'RESEARCH', url: '/pages/research'}
-- {name: 'TEACHING', url: '/pages/teaching'}
-- {name: 'CV', url: '/pages/cv'}
-#- {name: 'Contact', url: '/pages/contact'}
+- {name: 'HOME', url: '/index'}
+- {name: 'RESEARCH', url: '/research'}
+- {name: 'TEACHING', url: '/teaching'}
+- {name: 'CV', url: '/cv'}
+#- {name: 'Contact', url: '/contact'}
 
 social:
 - {icon: 'fab fa-github', link: 'https://github.com/yasin-simsek'}
