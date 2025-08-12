@@ -10,11 +10,11 @@ My research interests span **Econometrics**, **Asset Pricing**, and **Machine Le
 
 **I am on the 2025-2026 job market.**
 
-My CV is available [here](assets/documents/yasin_simsek_resume.pdf).
+My CV is available [here](assets/documents/yasin_simsek_resume.pdf){:target="_blank"}.
 
 
 **Contact Information**:    
-[yasin.simsek@duke.edu](mailto:yasin.simsek@duke.edu){:target="_blank"}
+[yasin.simsek@duke.edu](mailto:yasin.simsek@duke.edu)
 Department of Economics  
 Duke University  
 419 Chapel Drive, 213 Social Sciences        
