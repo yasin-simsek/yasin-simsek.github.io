@@ -58,7 +58,7 @@ title: "Research"
 <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> 
 <span class="middot">&middot;</span> 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006587" class="no-underline" target="_blank" rel="noopener noreferrer">SSRN</a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006587" class="no-underline">SSRN</a> 
 <span class="middot">&middot;</span>
 <a href="https://www.youtube.com/watch?v=xzrGnCQXz_k" class="no-underline" target="_blank" rel="noopener noreferrer">VTSS Workshop Recording</a>
 <span class="abstract-content"> *This paper analyzes variation in the factor structure of asset returns within a trade day by combining non-parametric kernel methods with principal component analysis. We estimate the model on a collection of over 400 high frequency US equity returns over the period 1996-2020 and show that the proposed model has superior explanatory power relative to a collection of well-known observable factor models and standard PCA. We present a stylized model of asset prices and information flows and show that the factor structure of asset returns varies with the arrival of news. Using data on individual firm earnings announcements, FOMC announcements, and other macroeconomic announcements, we provide evidence consistent with our stylized model, that the superior performance of the proposed model is due to time variation in the factor structure of asset returns around times of information flows.*</span>
@@ -84,6 +84,19 @@ title: "Research"
 **Beyond Returns: A Candlestick-Based Approach to Covariance Estimation** *(Draft is coming soon!)*  -->
 
 
+<!-- <script>
+function toggleAbstract(element) {
+    // Find the next sibling that contains the abstract content
+    var abstract = element.closest('span').nextElementSibling;
+    while (abstract && !abstract.classList.contains('abstract-content')) {
+        abstract = abstract.nextElementSibling;
+    }
+    if (abstract) {
+        abstract.classList.toggle("show");
+    }
+}
+</script> -->
+
 <script>
 function toggleAbstract(element) {
     // Find the next sibling that contains the abstract content
@@ -95,6 +108,15 @@ function toggleAbstract(element) {
         abstract.classList.toggle("show");
     }
 }
+
+// Add this new function to automatically handle external links
+document.addEventListener('DOMContentLoaded', function() {
+    const links = document.querySelectorAll('a[href^="http"]');
+    links.forEach(link => {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+    });
+});
 </script>
 
 <!-- <script>
