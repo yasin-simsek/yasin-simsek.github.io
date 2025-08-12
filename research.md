@@ -99,11 +99,14 @@ function toggleAbstract(element) {
 
 // Add this new function to automatically handle external links and document links
 document.addEventListener('DOMContentLoaded', function() {
-    // Handle external links (starting with http)
+    // Handle external links (exclude your own domain)
     const externalLinks = document.querySelectorAll('a[href^="http"]');
     externalLinks.forEach(link => {
-        link.setAttribute('target', '_blank');
-        link.setAttribute('rel', 'noopener noreferrer');
+        // Only open in new tab if it's not your own site
+        if (!link.href.includes('yasin-simsek.github.io') && !link.href.includes(window.location.hostname)) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+        }
     });
     
     // Handle document links (starting with assets/)
@@ -114,6 +117,3 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
-
-
-    
