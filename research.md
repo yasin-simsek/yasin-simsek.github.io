@@ -48,11 +48,17 @@ title: "Research"
 
 </style>
 
+<br>
+*“Click on Abstract to view it inline.”*
+<br>
+
 
 #### <span style="color: #012169;">Job Market Paper</span>
+
 **Beyond Returns: A Candlestick-Based Approach to Spot Covariance Estimation** *(Draft is available upon request)* 
 
 #### <span style="color: #012169;">Working Papers</span>
+
 **Intraday Variation in Systematic Risks and Information Flows**
 (with <a href="https://public.econ.duke.edu/~ap172/" class="no-underline">Andrew J. Patton</a>) 
 <br> 
