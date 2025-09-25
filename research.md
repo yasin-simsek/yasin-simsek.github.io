@@ -48,10 +48,6 @@ title: "Research"
 
 </style>
 
-<br>
-*“Click on Abstract to view it inline.”*
-<br>
-
 
 #### <span style="color: #012169;">Job Market Paper</span>
 
