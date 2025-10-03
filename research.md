@@ -11,14 +11,14 @@ title: "Research"
 }
 
 .abstract-content {
-    display: none;           /* Hide abstract by default */
-    opacity: 0;
+    display: inline-block;    /* Show abstract by default */
+    opacity: 1;
     transition: opacity 0.3s ease-in-out;
 }
 
-.abstract-content.show {
-    display: inline-block;   /* Show abstract when .show is added */
-    opacity: 1;
+.abstract-content.hide {
+    display: none;           /* Hide abstract when .hide is added */
+    opacity: 0;
     transition: opacity 0.3s ease-in-out;
 }
 
