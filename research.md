@@ -95,7 +95,7 @@ function toggleAbstract(element) {
         abstract = abstract.nextElementSibling;
     }
     if (abstract) {
-        abstract.classList.toggle("show");
+        abstract.classList.toggle("hide");
     }
 }
 
