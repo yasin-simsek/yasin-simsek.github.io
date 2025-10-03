@@ -66,21 +66,12 @@ title: "Research"
 <span class="abstract-content"> *This paper analyzes variation in the factor structure of asset returns within a trade day by combining non-parametric kernel methods with principal component analysis. We estimate the model on a collection of over 400 high-frequency US equity returns over the period 1996-2020 and show that the proposed model has superior explanatory power relative to a collection of well-known observable factor models and standard PCA. We present a stylized model of asset prices and information flows and show that the factor structure of asset returns varies with the arrival of news. Using data on individual firm earnings announcements, FOMC announcements, and other macroeconomic announcements, we provide evidence consistent with our stylized model, that the superior performance of the proposed model is due to time variation in the factor structure of asset returns around times of information flows.*</span>
 <br>
 
-*Presented at 2024 IAAE Annual Meeting, 2024 SoFiE Annual Meeting*
-
-<br>
-
 **Generalized Autoregressive Score Trees and Forests**
 (with <a href="https://public.econ.duke.edu/~ap172/" class="no-underline">Andrew J. Patton</a>) 
 <br> 
 *Revised and resubmitted at Journal of Business & Economic Statistics.*
 <br>
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> <span class="middot">&middot;</span> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4459756" class="no-underline">SSRN</a> <span class="middot">&middot;</span> <a href="assets/documents/Patton_Simsek_GAS_tree_APPENDIX.pdf" class="no-underline">Online Appendix</a> <span class="abstract-content">  *We propose methods to improve the forecasts from generalized autoregressive score (GAS) models (Creal et. al, 2013; Harvey, 2013) by localizing their parameters using decision trees and random forests. These methods avoid the curse of dimensionality faced by kernel-based approaches, and allow one to draw on information from multiple state variables simultaneously. We apply the new models to four distinct empirical analyses, and in all applications the proposed new methods significantly outperform the baseline GAS model. In our applications to stock return volatility and density prediction, the optimal GAS tree model reveals a leverage effect and a variance risk premium effect. Our study of stock-bond dependence finds evidence of a flight-to-quality effect in the optimal GAS forest forecasts, while our analysis of high-frequency trade durations uncovers a volume-volatility effect.*</span>
-<br>
-
-*Presented at 2023 IAAE Annual Meeting*
-
-<br>
 
 #### <span style="color: #012169;">Publications</span>
 **Bridging the Covid-19 data and the epidemiological model using the time-varying parameter SIRD model**  
