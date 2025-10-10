@@ -80,7 +80,7 @@ title: "Research"
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> <span class="middot">&middot;</span> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4459756" class="no-underline">SSRN</a> <span class="middot">&middot;</span> <a href="assets/documents/Patton_Simsek_GAS_tree_APPENDIX.pdf" class="no-underline">Online Appendix</a> <span class="abstract-content">  *We propose methods to improve the forecasts from generalized autoregressive score (GAS) models (Creal et. al, 2013; Harvey, 2013) by localizing their parameters using decision trees and random forests. These methods avoid the curse of dimensionality faced by kernel-based approaches, and allow one to draw on information from multiple state variables simultaneously. We apply the new models to four distinct empirical analyses, and in all applications the proposed new methods significantly outperform the baseline GAS model. In our applications to stock return volatility and density prediction, the optimal GAS tree model reveals a leverage effect and a variance risk premium effect. Our study of stock-bond dependence finds evidence of a flight-to-quality effect in the optimal GAS forest forecasts, while our analysis of high-frequency trade durations uncovers a volume-volatility effect.*</span>
 
 #### <span style="color: #012169;">Publications</span>
-**Bridging the Covid-19 data and the epidemiological model using the time-varying parameter SIRD model**  
+**Bridging the Covid-19 Data and the Epidemiological Model using the Time-varying Parameter SIRD Model**  
 (with <a href="https://sites.google.com/site/cemcakmakli/home" class="no-underline">Cem Cakmakli</a>) 
 <br>
 *Journal of Econometrics, 242/1, May 2024.*
