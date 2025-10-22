@@ -4,7 +4,7 @@ title: "Teaching Experience"
 ---
 Below, I outline some courses for which I have served as a teaching assistant and instructor at Duke.
 
-##### Investments and Financial Markets (Fall 2023, Fall 2024)
+##### Investments and Financial Markets (Fall 2023, Fall 2024, Fall 2025)
  * Instructor: Tim Bollerslev;
  * Level: MA class;
 
