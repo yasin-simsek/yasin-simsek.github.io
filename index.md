@@ -8,7 +8,7 @@ I am a PhD candidate at Department of Economics, Duke University.
 
 My research interests lie broadly in **time-series econometrics**, with a focus on developing and applying innovative econometric methods to analyze economic and financial data.
 
-**I will be joining Johns Hopkins University as a Postdoctoral Fellow, supervised by Domenico Giannone, as of July 2026.**
+**I will be joining Johns Hopkins University as a Postdoctoral Fellow (supervised by Domenico Giannone) in July 2026.**
 
 <!-- My research interests span **Econometrics**, **Asset Pricing**, and **Machine Learning** topics. Currently, my work mainly focuses on understanding financial markets with high-frequency econometric techniques. Also, as a secondary research agenda, I study machine learning applications in time series econometrics. -->
 
