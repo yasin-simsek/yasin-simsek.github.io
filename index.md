@@ -6,11 +6,13 @@ title: "Home"
 ### Welcome!
 I am a PhD candidate at Department of Economics, Duke University. 
 
-My research interests span **Econometrics**, **Asset Pricing**, and **Machine Learning** topics. Currently, my work mainly focuses on understanding financial markets with high-frequency econometric techniques. Also, as a secondary research agenda, I study machine learning applications in time series econometrics.
+My research interests lie broadly in **time-series econometrics**, with a focus on developing and applying innovative econometric methods to analyze economic and financial data.
+
+**I will be joining Johns Hopkins University as a Postdoctoral Fellow, supervised by Domenico Giannone, as of July 2026.**
+
+<!-- My research interests span **Econometrics**, **Asset Pricing**, and **Machine Learning** topics. Currently, my work mainly focuses on understanding financial markets with high-frequency econometric techniques. Also, as a secondary research agenda, I study machine learning applications in time series econometrics. -->
 
 <!-- I am a Postdoctoral Fellow at Johns Hopkins University, working under the supervision of Domenico Giannone since July 2026. I received my PhD in Economics from Duke University in May 2026. My research interests lie broadly in **time-series** econometrics, with a focus on developing and applying innovative econometric methods to analyze economic and financial data. -->
-
-**I am on the 2025-2026 job market.**
 
 My CV is available [here](assets/documents/yasin_simsek_resume.pdf){:target="_blank"}.
 
