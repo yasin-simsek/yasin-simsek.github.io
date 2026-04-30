@@ -52,7 +52,8 @@ title: "Research"
 #### <span style="color: #012169;">Working Papers</span>
 
 **Spot Regressions with Candlesticks** 
-*-Submitted*
+<br>
+*Submitted*
 <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span>
 <span class="middot">&middot;
