@@ -49,17 +49,17 @@ title: "Research"
 </style>
 
 
-#### <span style="color: #012169;">Job Market Paper</span>
+#### <span style="color: #012169;">Working Papers</span>
 
-**Beyond Returns: A Candlestick-Based Approach to Spot Covariance Estimation** *-(updated frequently)*
+**Spot Regressions with Candlesticks** 
+*-Submitted*
 <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span>
 <span class="middot">&middot;
-</span> <a href="assets/documents/jmp_last_version.pdf" class="no-underline">Latest Version</a> 
-<span class="abstract-content"> *Spot covariance estimation is commonly based on high-frequency open-to-close return data over short time windows, but such approaches face a trade-off between statistical accuracy and localization. In this paper, I introduce a new estimation framework using high-frequency candlestick data that include open, high, low, and close prices, effectively addressing this trade-off. By exploiting the information contained in candlesticks, the pro- posed method improves estimation accuracy relative to the benchmarks while preserving local structure. I further develop a test for spot covariance inference based on candlesticks, which demonstrates reasonable size control and a notable increase in power, particularly in small samples. Motivated by recent work in the finance literature, I test empirically the market neutrality of the iShares Bitcoin Trust ETF (IBIT) using 1-minute candlestick data for the full year of 2024. The results show systematic deviations from market neutral- ity, especially in periods of market stress. An event study around FOMC announcements further illustrates the new method’s ability to detect subtle shifts in response to relatively mild information events.*</span>
+</span> <a href="assets/documents/Simsek_2026_SpotRegCandle.pdf" class="no-underline">Latest Version</a> 
+<span class="abstract-content"> *Betas from spot regressions are central to asset pricing and risk management, as measures of systematic risk. This paper develops a new estimation and inference framework for spot regressions by leveraging high-frequency candlesticks, extending conventional (open-to-close) returns with intra-period high/low prices. Specifically, I construct candlestick-based estimators of regression parameters, including spot beta, by minimizing a quadratic risk under a fixed-k asymptotic framework. I then develop a feasible hypothesis testing procedure for spot betas with correct asymptotic size. Simulation results show that the proposed estimator reduces estimation risk relative to return-based estimators, especially in small samples, and the test achieves notably higher power. I apply the framework to assess the market neutrality of Bitcoin using 1-minute data on IBIT and SPY, finding deviations from neutrality, particularly in high-volatility periods.*</span>
 <br>
 
-#### <span style="color: #012169;">Working Papers</span>
 
 **Intraday Variation in Systematic Risks and Information Flows**
 (with <a href="https://public.econ.duke.edu/~ap172/" class="no-underline">Andrew J. Patton</a>) 
