@@ -10,7 +10,9 @@ My research interests lie broadly in **time-series econometrics**, with a focus 
 
 <!-- My research interests span **Econometrics**, **Asset Pricing**, and **Machine Learning** topics. Currently, my work mainly focuses on understanding financial markets with high-frequency econometric techniques. Also, as a secondary research agenda, I study machine learning applications in time series econometrics. -->
 
-I am a Postdoctoral Fellow at Department of Economics, Johns Hopkins University, since July 2026. I received my PhD in Economics from Duke University in May 2026. My research interests lie broadly in **financial and time-series econometrics**.
+I am a Postdoctoral Fellow at Department of Economics, Johns Hopkins University, since July 2026. I received my PhD in Economics from Duke University in May 2026. 
+
+My research interests lie broadly in **financial and time-series econometrics**.
 
 My CV is available [here](assets/documents/yasin_simsek_resume.pdf){:target="_blank"}.
 
