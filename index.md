@@ -18,7 +18,7 @@ My CV is available [here](assets/documents/yasin_simsek_resume.pdf){:target="_bl
 
 
 **Contact Information**:    
-[ysimsek1@jh.edu](mailto:ysimsek1@jh.edu)   
+[ysimsek1@jhu.edu](mailto:ysimsek1@jhu.edu)   
 Department of Economics  
 Johns Hopkins University  
 3100 Wyman Park Drive        
