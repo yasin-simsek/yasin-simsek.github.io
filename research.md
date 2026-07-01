@@ -57,7 +57,7 @@ title: "Research"
 <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span>
 <span class="middot">&middot;
-</span> <a href="assets/documents/Simsek_2026_SpotRegCandle.pdf" class="no-underline">Latest Version</a> 
+</span> <a href="https://arxiv.org/abs/2510.12911" class="no-underline">Arxiv</a> 
 <span class="abstract-content"> *Betas from spot regressions are central to asset pricing and risk management, as measures of systematic risk. This paper develops a new estimation and inference framework for spot regressions by leveraging high-frequency candlesticks, extending conventional (open-to-close) returns with intra-period high/low prices. Specifically, I construct candlestick-based estimators of regression parameters, including spot beta, by minimizing a quadratic risk under a fixed-k asymptotic framework. I then develop a feasible hypothesis testing procedure for spot betas with correct asymptotic size. Simulation results show that the proposed estimator reduces estimation risk relative to return-based estimators, especially in small samples, and the test achieves notably higher power. I apply the framework to assess the market neutrality of Bitcoin using 1-minute data on IBIT and SPY, finding deviations from neutrality, particularly in high-volatility periods.*</span>
 <br>
 
