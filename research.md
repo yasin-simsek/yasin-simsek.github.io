@@ -53,7 +53,7 @@ title: "Research"
 
 **Spot Regressions with Candlesticks** 
 <br>
-*May 2026, Submitted*
+*May 2026*, *Submitted*
 <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span>
 <span class="middot">&middot;
@@ -65,7 +65,7 @@ title: "Research"
 **Intraday Variation in Systematic Risks and Information Flows**
 (with <a href="https://public.econ.duke.edu/~ap172/" class="no-underline">Andrew J. Patton</a>) 
 <br>
-*Revised July 2026, Submitted*
+*Revised July 2026*, *Submitted*
 <br> 
 <span class="abstract-toggle" onclick="toggleAbstract(this)">Abstract</span> 
 <span class="middot">&middot;</span> 
